@@ -1,0 +1,5 @@
+
+
+_DATASETS_INFORMATION = {
+    'edges': _EDGES_INFORMATION,
+}
